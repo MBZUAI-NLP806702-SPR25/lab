@@ -15,7 +15,9 @@ Our lab sessions are aimed to:
 
 | Topic | Description | Materials | 
 |-------|-------------|-----------|
-| Basic Pytorch and Huggingface | - Review of Pytorch fundamentals <br> - Basic Huggingface usage  | `week1/basic_pytorch.ipynb`<br> `week1/basic_huggingface.ipynb` | 
+| Basic Pytorch and Huggingface | - Review of Pytorch fundamentals <br> - Basic Huggingface usage  | `week1-refresher` | 
+| LLM | - Preference Data <br> - Reward Model <br> - DPO <br> - Speculative Decoding  | `week2-llm` | 
+
 
 
 **Additional Resources:**
@@ -32,6 +34,7 @@ root/
 │
 ├── labs/
 │   ├── week1-refresher/
+│   ├── week2-llm/
 |_________________________
 
 ```
